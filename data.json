@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Milk",
+    "category": "Dairy",
+    "price": 4.50,
+    "quantity": 2
+  },
+  {
+    "name": "Bread",
+    "category": "Bakery",
+    "price": 6.00,
+    "quantity": 1
+  },
+  {
+    "name": "Eggs",
+    "category": "Dairy",
+    "price": 10.00,
+    "quantity": 1
+  },
+  {
+    "name": "Apples",
+    "category": "Fruit",
+    "price": 3.00,
+    "quantity": 6
+  },
+  {
+    "name": "Coffee",
+    "category": "Beverages",
+    "price": 18.00,
+    "quantity": 1
+  }
+]
